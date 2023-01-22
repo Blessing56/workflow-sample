@@ -15,7 +15,7 @@ jobs:
     steps:
       - checkout
       - run:
-          name: "print_hello"
+          name: "print_helllo"
           command: echo Hello
 
   print_world:
